@@ -188,10 +188,3 @@ This project is licensed under the MIT License.
 * Add Swagger/OpenAPI documentation
 
 ---
-
-## ✨ Author
-
-**Your Name**
-[GitHub](https://github.com/your-username) | [LinkedIn](https://linkedin.com/in/your-profile)
-
----
