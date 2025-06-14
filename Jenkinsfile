@@ -9,7 +9,7 @@ pipeline {
     stages {
         stage('Checkout') {
             steps {
-                git 'https://github.com/your-username/spring-boot-ci-cd-demo.git'
+                git 'https://github.com/Ayushkhodankar/spring-boot-ci-cd-demo.git'
             }
         }
 
